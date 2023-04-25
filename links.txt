@@ -1,0 +1,8 @@
+Lorem imagenes:
+https://picsum.photos/
+
+Inst. Boostrap español:
+https://runebook.dev/es/docs/bootstrap/utilities/text/index#text-alignment
+
+pag de bootstrap:
+https://getbootstrap.com/docs/5.0/forms/floating-labels/#textareas

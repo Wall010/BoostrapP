@@ -1,0 +1,11 @@
+body{
+    background-color: antiquewhite;
+}
+header{
+    background: linear-gradient(#484848, #3333, #01ddfb, blue, violet);
+}
+
+.nosotros{
+    text-align: justify;
+    line-height: 2em;
+}
